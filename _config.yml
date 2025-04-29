@@ -94,4 +94,4 @@ minima:
 
 # Enable paginationPermalink
 # https://jekyllrb.com/docs/pagination/
-paginate: 5
+paginate: 10
