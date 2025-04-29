@@ -97,4 +97,4 @@ minima:
 # Ref links
 # https://jekyllrb.com/docs/pagination/
 # https://stackoverflow.com/questions/57659321/how-to-paginate-in-jekyll
-paginate: 10
+paginate: 5
